@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-18T09:48:19.933-0300</date>
+  <logger>DAVI SOARES FERREIRA</logger>
+  <level>FINE</level>
+  <message>File 122111030-DAVI SOARES FERREIRA.zip was received. It was sent by DAVI SOARES FERREIRA from IP 150.165.42.130 at 18-10-2023 09*48*19</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-19T21:46:58.423-0300</date>
+  <logger>DAVI SOARES FERREIRA</logger>
+  <level>FINE</level>
+  <message>File 122111030-DAVI SOARES FERREIRA.zip was received. It was sent by DAVI SOARES FERREIRA from IP 192.168.0.105 at 19-10-2023 21*46*58</message>
+</record>
